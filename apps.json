@@ -1,20 +1,14 @@
 [
   {
-    "name": "ClockerStore",
-    "package": "com.bold.clocker",
+    "name": "Example App",
     "version": "1.0.0",
-    "download_url": "https://example.com/clockerstore.apk",
-    "icon_url": "https://example.com/icons/clockerstore.png",
-    "category": "Utilities",
-    "description": "An alternative app store for downloading and managing apps."
+    "download_url": "https://example.com/app.apk",
+    "icon_url": "https://example.com/icon.png"
   },
   {
-    "name": "Example App",
-    "package": "com.example.app",
-    "version": "2.3.1",
-    "download_url": "https://example.com/example-app.apk",
-    "icon_url": "https://example.com/icons/example-app.png",
-    "category": "Games",
-    "description": "A fun game to play."
+    "name": "Another App",
+    "version": "2.0.1",
+    "download_url": "https://example.com/another.apk",
+    "icon_url": "https://example.com/another_icon.png"
   }
 ]
