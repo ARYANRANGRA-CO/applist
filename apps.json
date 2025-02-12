@@ -4,11 +4,5 @@
     "version": "1.0.0",
     "download_url": "https://example.com/app.apk",
     "icon_url": "https://example.com/icon.png"
-  },
-  {
-    "name": "Another App",
-    "version": "2.0.1",
-    "download_url": "https://example.com/another.apk",
-    "icon_url": "https://example.com/another_icon.png"
   }
 ]
